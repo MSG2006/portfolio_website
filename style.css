@@ -121,30 +121,3 @@ footer {
     border-radius: 50%;
     object-fit: cover;
 }
-.main-menu {
-    display: flex;
-    justify-content: center;
-}
-
-.main-menu .menu {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-}
-
-.main-menu .menu li {
-    margin: 0 20px;
-}
-
-.main-menu .menu li a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-.main-menu .menu li a:hover {
-    color: #1abc9c;
-}
-
-
